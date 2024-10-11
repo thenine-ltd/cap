@@ -1,0 +1,88 @@
+[info]-[2024/08/03 07:46:52] #################### Start Backup Job ####################
+[info]-[2024/08/03 07:46:52] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:52] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:52] Server: Apache
+[info]-[2024/08/03 07:46:52] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:52] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:52] Host: General
+[info]-[2024/08/03 07:46:52] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:52] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:52] PHP Max Execution Time: 120
+[info]-[2024/08/03 07:46:52] Is Multipart Backup: No 
+[info]-[2024/08/03 07:46:52] Backup Contents: {"Media Library":false,"Themes":false,"Must-Use Plugins":false,"Plugins":false,"Other Files In wp-content":false,"Database":true}
+[info]-[2024/08/03 07:46:52] Advanced Exclude Options: ["No"]
+[info]-[2024/08/03 07:46:52] Schedule Options: ["No"]
+[info]-[2024/08/03 07:46:52] Storages: ["localStorage"]
+[info]-[2024/08/03 07:46:52] Backup requirements passed...
+[info]-[2024/08/03 07:46:53] Finished discovering Files. (0 files)
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_actionscheduler_actions. Rows: 31/31
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_actionscheduler_claims. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_actionscheduler_groups. Rows: 3/3
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_actionscheduler_logs. Rows: 91/91
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_commentmeta. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_comments. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_e_events. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_links. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_options. Rows: 597/597
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_postmeta. Rows: 203/203
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_posts. Rows: 32/32
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_css. Rows: 109/109
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_layer_animations. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_navigations. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_sliders. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_sliders7. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_slides. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_slides7. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_revslider_static_slides. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sbi_feed_caches. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sbi_feeds. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sbi_instagram_feed_locator. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sbi_instagram_feeds_posts. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sbi_instagram_posts. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sbi_sources. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sgs_log_events. Rows: 34/34
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_sgs_log_visitors. Rows: 23/23
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_term_relationships. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_term_taxonomy. Rows: 15/15
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_termmeta. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_terms. Rows: 15/15
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_usermeta. Rows: 27/27
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_users. Rows: 1/1
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_admin_note_actions. Rows: 101/101
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_admin_notes. Rows: 71/71
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_category_lookup. Rows: 1/1
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_customer_lookup. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_download_log. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_order_addresses. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_order_coupon_lookup. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_order_operational_data. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_order_product_lookup. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_order_stats. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_order_tax_lookup. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_orders. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_orders_meta. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_product_attributes_lookup. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_product_download_directories. Rows: 2/2
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_product_meta_lookup. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_rate_limits. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_reserved_stock. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_tax_rate_classes. Rows: 2/2
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_wc_webhooks. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_api_keys. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_attribute_taxonomies. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_downloadable_product_permissions. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_log. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_order_itemmeta. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_order_items. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_payment_tokenmeta. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_payment_tokens. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_sessions. Rows: 1/1
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_shipping_zone_locations. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_shipping_zone_methods. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_shipping_zones. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_tax_rate_locations. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Backup database: Table pco_woocommerce_tax_rates. Rows: 0/0
+[info]-[2024/08/03 07:46:54] Included 1 MB/1 MB of Database Backup.
+[info]-[2024/08/03 07:46:54] Successfully created backup file
+[info]-[2024/08/03 07:46:54] The backup was signed successfully.
+[info]-[2024/08/03 07:46:55] ################## FINISH ##################

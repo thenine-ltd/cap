@@ -1,0 +1,31 @@
+#menu_icon {
+    display: none;
+}
+
+.select-icon {
+    cursor: pointer;
+}
+
+.icon-for-selection {
+    margin: 0px 8px 8px;
+    cursor: pointer;
+}
+
+.swal-wide {
+    width: 850px !important;
+}
+
+.swal-wide .swal2-title {
+    margin-bottom: 0px;
+}
+
+.svg-menu-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    vertical-align: middle;
+    margin-top: -3px;
+    background-size: 20px 20px;
+}

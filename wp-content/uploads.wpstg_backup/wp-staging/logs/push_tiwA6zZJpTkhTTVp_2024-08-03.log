@@ -1,0 +1,94 @@
+[INFO]-[2024/08/03 07:46:52] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:52] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:52] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:52] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:52] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:52] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:52] Server: Apache
+[info]-[2024/08/03 07:46:52] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:52] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:52] Host: General
+[info]-[2024/08/03 07:46:52] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:52] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:52] PHP Max Execution Time: 120
+[INFO]-[2024/08/03 07:46:55] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:55] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:55] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:55] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:55] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:55] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:55] Server: Apache
+[info]-[2024/08/03 07:46:55] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:55] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:55] Host: General
+[info]-[2024/08/03 07:46:55] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:55] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:55] PHP Max Execution Time: 120
+[INFO]-[2024/08/03 07:46:55] Scanning /home/customer/www/learnwithcap.com/public_html/staging/wp-content/plugins/, its sub-directories and files
+[INFO]-[2024/08/03 07:46:56] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:56] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:56] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:56] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:56] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:56] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:56] Server: Apache
+[info]-[2024/08/03 07:46:56] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:56] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:56] Host: General
+[info]-[2024/08/03 07:46:56] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:56] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:56] PHP Max Execution Time: 120
+[INFO]-[2024/08/03 07:46:56] Scanning /home/customer/www/learnwithcap.com/public_html/staging/wp-content/themes/, its sub-directories and files
+[INFO]-[2024/08/03 07:46:56] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:56] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:56] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:56] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:56] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:56] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:56] Server: Apache
+[info]-[2024/08/03 07:46:56] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:56] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:56] Host: General
+[info]-[2024/08/03 07:46:56] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:56] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:56] PHP Max Execution Time: 120
+[INFO]-[2024/08/03 07:46:56] Scanning /home/customer/www/learnwithcap.com/public_html/staging/wp-content/uploads/, its sub-directories and files
+[INFO]-[2024/08/03 07:46:56] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:56] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:56] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:56] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:56] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:56] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:56] Server: Apache
+[info]-[2024/08/03 07:46:56] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:56] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:56] Host: General
+[info]-[2024/08/03 07:46:56] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:56] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:56] PHP Max Execution Time: 120
+[INFO]-[2024/08/03 07:46:56] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:56] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:56] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:56] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:56] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:56] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:56] Server: Apache
+[info]-[2024/08/03 07:46:56] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:56] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:56] Host: General
+[info]-[2024/08/03 07:46:56] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:56] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:56] PHP Max Execution Time: 120
+[INFO]-[2024/08/03 07:46:56] #################### Start Push Job ####################
+[info]-[2024/08/03 07:46:56] Pushing staging site 1720889690069
+[info]-[2024/08/03 07:46:56] Source: /home/customer/www/learnwithcap.com/public_html/staging/
+[info]-[2024/08/03 07:46:56] Destination: /home/customer/www/learnwithcap.com/public_html/
+[info]-[2024/08/03 07:46:56] WP Staging Version: Pro 5.7.1
+[info]-[2024/08/03 07:46:56] PHP Version: 7.4.33
+[info]-[2024/08/03 07:46:56] Server: Apache
+[info]-[2024/08/03 07:46:56] MySQL: 8.0.36
+[info]-[2024/08/03 07:46:56] WP Version: 6.6.1
+[info]-[2024/08/03 07:46:56] Host: General
+[info]-[2024/08/03 07:46:56] PHP Memory Limit: 805306368
+[info]-[2024/08/03 07:46:56] WP Memory Limit: 268435456
+[info]-[2024/08/03 07:46:56] PHP Max Execution Time: 120

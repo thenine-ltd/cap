@@ -1,0 +1,52 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": "2",
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "cap",
+					"slug": "cap",
+					"fontFace": [
+						{
+							"fontFamily": "cap",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "https://learnwithcap.com/wp-content/uploads/useanyfont/3130CAP.woff2"
+						},
+						{
+							"fontFamily": "cap",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "https://learnwithcap.com/wp-content/uploads/useanyfont/9706CAP.woff2"
+						},
+						{
+							"fontFamily": "cap",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "https://learnwithcap.com/wp-content/uploads/useanyfont/4038CAP.woff2"
+						},
+						{
+							"fontFamily": "cap",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "https://learnwithcap.com/wp-content/uploads/useanyfont/2048CAP.woff2"
+						},
+						{
+							"fontFamily": "cap",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "https://learnwithcap.com/wp-content/uploads/useanyfont/7134CAP.woff2"
+						}
+					],
+					"isUAF": true
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,58 @@
+				@font-face {
+					font-family: 'cap';
+					src: url('/wp-content/uploads/useanyfont/3130CAP.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/3130CAP.woff') format('woff');
+					font-weight: 700; font-style: normal; font-display: auto;
+				}
+
+				.cap{font-family: 'cap' !important;}
+
+						@font-face {
+					font-family: 'cap';
+					src: url('/wp-content/uploads/useanyfont/9706CAP.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/9706CAP.woff') format('woff');
+					font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.cap{font-family: 'cap' !important;}
+
+						@font-face {
+					font-family: 'cap';
+					src: url('/wp-content/uploads/useanyfont/4038CAP.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/4038CAP.woff') format('woff');
+					font-weight: 800; font-style: normal; font-display: auto;
+				}
+
+				.cap{font-family: 'cap' !important;}
+
+						@font-face {
+					font-family: 'cap';
+					src: url('/wp-content/uploads/useanyfont/2048CAP.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2048CAP.woff') format('woff');
+					font-weight: 500; font-style: normal; font-display: auto;
+				}
+
+				.cap{font-family: 'cap' !important;}
+
+						@font-face {
+					font-family: 'cap';
+					src: url('/wp-content/uploads/useanyfont/7134CAP.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7134CAP.woff') format('woff');
+					font-weight: 600; font-style: normal; font-display: auto;
+				}
+
+				.cap{font-family: 'cap' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, em, .menu-main-menu-container li a, .menu-main-menu-container li span, #menu-main-menu li a, #menu-main-menu li span, .menu-tr-container li a, .menu-tr-container li span, #menu-tr li a, #menu-tr li span{
+					font-family: 'cap' !important;
+				}
+						h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .nav-tabs&gt;li&gt;a, .member-name, .section-title, .user-name, .heading_font, .item-title, .acomment-meta, [type=\&quot;reset\&quot;], .bp-subnavs, .activity-header, table, .widget_categories ul li a, .sidebar-area .widget ul li a, .select2-selection__rendered, blockquote, .select2-chosen, .vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-tabs-container .vc_tta-tabs-list li.vc_tta-tab a, .vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tabs-container .vc_tta-tabs-list li.vc_tta-tab a, body.distance-learning .btn, body.distance-learning .vc_btn3{
+					font-family: 'cap' !important;
+				}
+						span{
+					font-family: 'cap' !important;
+				}
+						.testimonials_title.h3, .stats_counter .stats_counter_title{
+					font-family: 'cap' !important;
+				}
+		
