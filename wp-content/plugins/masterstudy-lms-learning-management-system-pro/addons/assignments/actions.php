@@ -210,13 +210,32 @@ function stm_lms_student_assignment_review( $post ) {
 					'items' => array(
 						array(
 							'value'   => 'passed',
-							'label'   => esc_html__( 'Passed', 'masterstudy-lms-learning-management-system-pro' ),
+							'label'   => esc_html__( 'Needs  Improvement', 'masterstudy-lms-learning-management-system-pro' ),
+							'checked' => 'passed' === $status,
+							'style'   => 'success',
+						),
+
+						array(
+							'value'   => 'passed',
+							'label'   => esc_html__( 'Satisfactory', 'masterstudy-lms-learning-management-system-pro' ),
+							'checked' => 'passed' === $status,
+							'style'   => 'success',
+						),
+						array(
+							'value'   => 'passed',
+							'label'   => esc_html__( 'Good', 'masterstudy-lms-learning-management-system-pro' ),
+							'checked' => 'passed' === $status,
+							'style'   => 'success',
+						),
+						array(
+							'value'   => 'passed',
+							'label'   => esc_html__( 'Very Good', 'masterstudy-lms-learning-management-system-pro' ),
 							'checked' => 'passed' === $status,
 							'style'   => 'success',
 						),
 						array(
 							'value'   => 'not_passed',
-							'label'   => esc_html__( 'Failed', 'masterstudy-lms-learning-management-system-pro' ),
+							'label'   => esc_html__( 'Excellent', 'masterstudy-lms-learning-management-system-pro' ),
 							'checked' => 'not_passed' === $status,
 							'style'   => 'danger',
 						),

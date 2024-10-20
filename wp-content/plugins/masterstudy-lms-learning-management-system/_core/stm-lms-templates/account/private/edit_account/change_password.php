@@ -19,6 +19,7 @@
 							v-on:mousedown="new_visible=true"
 							v-on:mouseup="new_visible=false"></i>
 					</div>
+					<p style="margin-top: 16px;opacity:.6;">Mật khẩu bao gồm chữ in hoa và số, tối thiểu 8 ký tự</p>
 				</div>
 			</div>
 			<div class="col-md-6">
