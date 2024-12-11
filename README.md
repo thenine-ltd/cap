@@ -1,1 +1,2 @@
-# cap
+Configuration:
+PHP 7.4
